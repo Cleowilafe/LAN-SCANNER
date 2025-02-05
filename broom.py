@@ -2,7 +2,7 @@ import argparse
 import socket
 import subprocess
 import multiprocessing
-import ipaddress  # Importing the ipaddress module to work with IP addresses
+
 
 # Creating argument parser
 parser = argparse.ArgumentParser(description="Discover the opened ports")
