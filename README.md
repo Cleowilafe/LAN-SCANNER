@@ -18,7 +18,7 @@ The implementation of the script is based on the following technologies:
   - `socket`: For handling network connections.
   - `subprocess`: For executing system commands.
   - `multiprocessing`: For parallel processing capabilities.
-  - `ipaddress`: For managing and manipulating IP addresses efficiently.
+  
 
 ## Installation
 To set up the script on your machine, follow these steps:
